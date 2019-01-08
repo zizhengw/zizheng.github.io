@@ -1,3 +1,1 @@
-# wujimacha.com
-A personal web portal (experimental) under development : )
-
+A personal web portal (experimental).
