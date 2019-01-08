@@ -1,2 +1,3 @@
-# wujimacha.github.io
-A personal web portal (experimental)
+# wujimacha.com
+A personal web portal (experimental) under development : )
+
