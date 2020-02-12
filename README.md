@@ -1,1 +1,1 @@
-A personal web portal (experimental).
+WūJīMāChā Gathering home site.
